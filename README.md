@@ -40,9 +40,9 @@ In short: less **'developer,' more 'person who noticed a business problem and de
 
 <img src="https://github-readme-stats.vercel.app/api?username=shrestha-shubham&theme=react&hide_border=true&show_icons=true" height="160"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Shubhamshrestha0890&theme=react&hide_border=true" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=shrestha-shubham&theme=react&hide_border=true" height="160"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamshrestha0890&layout=compact&theme=react&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shresthashubham&layout=compact&theme=react&hide_border=true" height="160"/>
 
 
 
